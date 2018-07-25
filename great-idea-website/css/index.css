@@ -64,3 +64,32 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+title {
+	/* display: inline-block; */
+	float: right;
+}
+
+ nav {
+	 color grey;
+	 display: inline-block;
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
